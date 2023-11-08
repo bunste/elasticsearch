@@ -280,7 +280,7 @@ Search::
 * Support cluster/details for CCS minimize_roundtrips=false {es-pull}98457[#98457]
 
 Security::
-* Support rotatating the JWT shared secret {es-pull}99278[#99278]
+* Support rotating the JWT shared secret {es-pull}99278[#99278]
 
 Snapshot/Restore::
 * Remove shard data files when they fail to write for snapshot {es-pull}99694[#99694]
